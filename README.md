@@ -1,5 +1,4 @@
-# MarioGame
-Super Mario Bros (Python Project)
+# Super Mario Bros (Python Project)
 
 # Overview
 
@@ -103,4 +102,5 @@ enemy_hit, enemy_stand_coll, kick_enemy - Handle combat interactions
 
 # Authors
 Silvia Andreeva
+
 Noa Dori
